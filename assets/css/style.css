@@ -779,7 +779,8 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/hero.jpg) no-repeat center / cover; 
+    /* background: url(../img/hero.jpg) no-repeat center / cover;  */
+    background: url(../../images/fd.jpg) no-repeat center / cover; 
     height: 100%;
     width: 100%;
     display: table;
